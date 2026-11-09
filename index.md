@@ -6,6 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Dongeng Sarimulya](ebook/Dongeng Sarimulya.pdf) – Mas Pudjahardja (1979)
 3. [Aneh](ebook/Aneh .pdf) – Sonal Gupta Vaswani (2024)
 4. [Jempol Anaya](ebook/Jempol Anaya.pdf) – Ruchi Shah (2024)
-5. Contoh buku lain
+5. [Miss Dodol](ebook/Miss Dodol.pdf) – Wini Afiati (2025)
+6. Contoh buku lain
 ---
 *Powered by GitHub Pages*
